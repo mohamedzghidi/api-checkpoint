@@ -1,5 +1,33 @@
+body {
+  background-color: lightgray;
+}
+
 .App {
   text-align: center;
+}
+
+.cardDeck {
+  width: 95%;
+  margin: auto;
+  padding-bottom: 25px;
+}
+
+p {
+  margin: 5px 0;
+}
+
+.cardStyle {
+  margin: 10px;
+  min-width: 400px;
+}
+
+.title {
+  font-weight: bold;
+}
+.cardTitle {
+  font-size: 24px;
+  font-weight: bolder;
+  color: darkblue;
 }
 
 .App-logo {
